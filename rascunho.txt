@@ -1,0 +1,13 @@
+Sistemas de notas simples
+
+note (lembrete, anotação)
+
+rotas para funcionalidades web
+/note/ - lista
+/note/view - uma nota
+/note/create - criar nota
+
+
+
+
+go mod init github.com/wandermaia/quicknotes
